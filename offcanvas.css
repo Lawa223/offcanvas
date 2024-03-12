@@ -1,0 +1,26 @@
+@media screen and ( max-width:1000px) {
+    #off{
+        display: none;
+    }
+    #title{
+        margin-left: px;
+    }
+    .navbar-brand{
+       
+    }
+    .img1{
+        /* margin-top: 20px; */
+        height: 200px;
+    }
+    .img2{
+        margin-top: 150px;
+        height: 400px;
+    }
+    .navbar-collapse{
+        display: none;
+    }
+    .navbar{
+       
+        
+    }
+}
